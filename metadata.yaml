@@ -1,5 +1,8 @@
 _repo: Ireland-under-the-Stuarts-and-During-the-Interregnum-Vol-1-of-3-1603-1642_53473
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53473-h/images/cover.jpg
 creator:
   author:
     agent_name: Bagwell, Richard
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '41492'
     url: http://www.gutenberg.org/2009/agents/41492
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53473#Ireland-under-the-Stuarts-and-During-the-Interregnum-Vol-1-of-3-1603-1642
 gutenberg_issued: '2016-11-07'
 gutenberg_type: Text
 identifiers:
